@@ -1,9 +1,16 @@
 .fundo{
     background-color:rgba(128, 128, 128, 0.432);
-    height: 2000px;
-    width: 1000px;
+    height: 100%;
+    width: 100%;
     display: inline-block;
-    margin: auto;    
+    margin:10px 10px 10px 10px;    
+}
+
+.linha{
+   width: 100%; 
+   height: 100%;
+   display: inline-block;
+  
 }
 
  .div{
@@ -29,9 +36,9 @@ img{
 
 .acre{
       
-    height: 200px;
-    width: 200px;  
-    border: 2px dashed black;
+    height: 50%;
+    width: 20%;  
+    border: 2px dashed black; 
     margin:10px 1px 10px 10px; 
     text-align: center;
     display: inline-block; 
@@ -39,8 +46,8 @@ img{
 
 }
 .amapa{
-    height: 250px;
-    width: 200px; 
+    height: 30%;
+    width: 20%; 
     border: 1px dotted black;
     margin:50px 1px 10px 10px; 
     text-align: center;
@@ -49,8 +56,8 @@ img{
 
  .amazonas{
       
-    height: 200px;
-    width: 200px; 
+    height: 50%;
+    width: 20%; 
     border: 3px double black;
     margin:10px 1px 10px 10px; 
     text-align: center;
@@ -58,8 +65,8 @@ img{
 }
 .para{
       
-     height: 200px;
-    width: 200px; 
+    height: 50%;
+    width: 20%;
     border: 2px groove black;
     margin:10px 1px 10px 10px; 
     text-align: center;
@@ -67,8 +74,8 @@ img{
 }
 .rondonia{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 3px inset black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -76,8 +83,8 @@ img{
 }
 .tocantins{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px outset black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -85,8 +92,8 @@ img{
 }
 .maranhao{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px ridge black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -94,8 +101,8 @@ img{
 }
 .piaui{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px dotted black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -103,8 +110,8 @@ img{
 }
 .ceara{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 1px dashed black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -112,8 +119,8 @@ img{
 }
 .rionorte{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;;
     border: 2px solid black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -121,8 +128,8 @@ img{
 }
 .rionorte{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 3px double black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -130,8 +137,8 @@ img{
 }
 .paraiba{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px groove black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -139,8 +146,8 @@ img{
 }
 .pernambuco{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 1px double black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -148,8 +155,8 @@ img{
 }
 .alagoas{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 3px ridge black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -157,8 +164,8 @@ img{
 }
 .sergipe{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px inset black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -166,8 +173,8 @@ img{
 }
 .bahia{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 1px outset black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -175,8 +182,8 @@ img{
 }
 .goias{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px dotted black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -184,8 +191,8 @@ img{
 }
 .matogrosso{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 3px dashed black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -193,8 +200,8 @@ img{
 }
 .matogrossosul{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 1px solid black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -202,8 +209,8 @@ img{
 }
 .df{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px double black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -211,8 +218,8 @@ img{
 }
 .saopaulo{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;;
     border: 2px groove black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -220,8 +227,8 @@ img{
 }
 .riojaneiro{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 1px solid black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -229,8 +236,8 @@ img{
 }
 .minasgerais{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 3px ridge black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -238,8 +245,8 @@ img{
 }
 .espiritosanto{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 1px inset black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -247,8 +254,8 @@ img{
 }
 .parana{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px outset black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -256,8 +263,8 @@ img{
 }
 .santacatarina{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 5px dotted black;
     margin:10px 1px 10px 10px;
     text-align: center;
@@ -265,16 +272,16 @@ img{
 }
 .riosul{
       
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     border: 2px dotted black;
     margin:10px 1px 10px 10px;
     text-align: center;
     display: inline-block; 
 }
  .linha1{
-    height: 200;
-    width: 200px;
+    height: 50%;
+    width: 20%;
     margin:10px 1px 10px 10px;
     border: 2px dotted black;
     text-align: center;
