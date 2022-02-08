@@ -1,0 +1,284 @@
+.fundo{
+    background-color:rgba(128, 128, 128, 0.432);
+    height: 2000px;
+    width: 1000px;
+    display: inline-block;
+    margin: auto;    
+}
+
+ .div{
+    width: 100px;
+    height: 100px;
+    display: inline-block; 
+ }
+
+h4, p{
+    text-align: center;
+    font-size: small;
+
+}
+
+img{
+    float:left;
+    width: 70px;
+    border: 1px thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+}
+ 
+
+.acre{
+      
+    height: 200px;
+    width: 200px;  
+    border: 2px dashed black;
+    margin:10px 1px 10px 10px; 
+    text-align: center;
+    display: inline-block; 
+    
+
+}
+.amapa{
+    height: 250px;
+    width: 200px; 
+    border: 1px dotted black;
+    margin:50px 1px 10px 10px; 
+    text-align: center;
+    display: inline-block;
+}
+
+ .amazonas{
+      
+    height: 200px;
+    width: 200px; 
+    border: 3px double black;
+    margin:10px 1px 10px 10px; 
+    text-align: center;
+    display: inline-block; 
+}
+.para{
+      
+     height: 200px;
+    width: 200px; 
+    border: 2px groove black;
+    margin:10px 1px 10px 10px; 
+    text-align: center;
+    display: inline-block; 
+}
+.rondonia{
+      
+    height: 200px;
+    width: 200px;
+    border: 3px inset black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.tocantins{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px outset black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.maranhao{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px ridge black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.piaui{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px dotted black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.ceara{
+      
+    height: 200px;
+    width: 200px;
+    border: 1px dashed black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.rionorte{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.rionorte{
+      
+    height: 200px;
+    width: 200px;
+    border: 3px double black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.paraiba{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px groove black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.pernambuco{
+      
+    height: 200px;
+    width: 200px;
+    border: 1px double black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.alagoas{
+      
+    height: 200px;
+    width: 200px;
+    border: 3px ridge black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.sergipe{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px inset black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.bahia{
+      
+    height: 200px;
+    width: 200px;
+    border: 1px outset black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.goias{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px dotted black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.matogrosso{
+      
+    height: 200px;
+    width: 200px;
+    border: 3px dashed black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.matogrossosul{
+      
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.df{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px double black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.saopaulo{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px groove black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.riojaneiro{
+      
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.minasgerais{
+      
+    height: 200px;
+    width: 200px;
+    border: 3px ridge black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.espiritosanto{
+      
+    height: 200px;
+    width: 200px;
+    border: 1px inset black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.parana{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px outset black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.santacatarina{
+      
+    height: 200px;
+    width: 200px;
+    border: 5px dotted black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+.riosul{
+      
+    height: 200px;
+    width: 200px;
+    border: 2px dotted black;
+    margin:10px 1px 10px 10px;
+    text-align: center;
+    display: inline-block; 
+}
+ .linha1{
+    height: 200;
+    width: 200px;
+    margin:10px 1px 10px 10px;
+    border: 2px dotted black;
+    text-align: center;
+    display: inline-block;
+}
+ 
+
